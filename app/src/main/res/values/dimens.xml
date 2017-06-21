@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="articleSectionSize">16sp</dimen>
+    <dimen name="articleTitleSize">20sp</dimen>
+    <dimen name="margins">8dp</dimen>
+
+</resources>

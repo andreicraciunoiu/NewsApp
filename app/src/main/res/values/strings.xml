@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="section">Section</string>
+    <string name="listSize">"List Size (1–100)"</string>
+    <string name="listSizeDefault">10</string>
+    <string name="noInternet">No internet connection</string>
+    <string name="title">Title</string>
+    <string name="sectionTitle">Section title</string>
+    <string name="articleTitle">Article title</string>
+    <string name="filterButtonTitle">Filter</string>
+
+    <string-array name="section_array">
+
+        <item>"Africa"</item>
+        <item>Android</item>
+        <item>Art</item>
+        <item>"Asia"</item>
+        <item>"Australia"</item>
+        <item>Automotive</item>
+
+        <item>"Banking"</item>
+        <item>"Basketball"</item>
+        <item>"Books"</item>
+        <item>"Boxing"</item>
+
+        <item>"Career"</item>
+        <item>"Climate Change"</item>
+        <item>"Cycling"</item>
+
+        <item>Dance</item>
+        <item>Design</item>
+
+        <item>"Economics"</item>
+        <item>"Energy"</item>
+        <item>"Europe"</item>
+
+        <item>"F1"</item>
+        <item>"Family"</item>
+        <item>"Film"</item>
+        <item>"Finance"</item>
+        <item>"Fitness"</item>
+        <item>"Food"</item>
+        <item>"Football"</item>
+
+        <item>"Games"</item>
+        <item>"Golf"</item>
+
+        <item>"Health"</item>
+        <item>History</item>
+
+        <item>International</item>
+
+        <item>"Love"</item>
+
+        <item>"Middle East"</item>
+        <item>"Marketing"</item>
+        <item>"Music"</item>
+
+        <item>"Pollution"</item>
+        <item>"Property"</item>
+
+        <item>"Racing</item>
+        <item>Radio</item>
+        <item>"Recipes"</item>
+
+        <item>"Science"</item>
+        <item>"Sex"</item>
+        <item>"Snooker"</item>
+
+        <item>"Technology"</item>
+        <item>"Travel"</item>
+        <item>TV</item>
+
+        <item>"USA"</item>
+
+        <item>"Wildlife"</item>
+        <item>"Women"</item>
+    </string-array>
+</resources>
